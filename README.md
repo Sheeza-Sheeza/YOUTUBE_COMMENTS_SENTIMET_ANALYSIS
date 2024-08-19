@@ -31,8 +31,3 @@ The purpose of this project is to analyze the sentiments of comments on YouTube 
 - **Matplotlib**: Used for visualizing the results in bar and pie charts.
 - **Regex**: Used for filtering comments.
 
-## Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/youtube-comment-sentiment-analysis.git
