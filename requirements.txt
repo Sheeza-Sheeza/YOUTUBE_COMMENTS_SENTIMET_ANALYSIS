@@ -1,0 +1,3 @@
+emoji
+vaderSentiment
+google-api-python-client
